@@ -638,7 +638,7 @@ button {
       right: auto; } }
   @media screen and (min-width: 965px) {
     nav {
-      left: 205px; } }
+      left: 105px; } }
   .ie7 nav, .ie8 nav {
     position: absolute;
     top: 50%;
