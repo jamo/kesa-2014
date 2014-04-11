@@ -17,7 +17,9 @@ embed {
 html {
   overflow-y: scroll; }
 
-ol,
+.main ol {
+padding-left: 20px;
+}
 ul {
   list-style: none; }
 
@@ -1043,13 +1045,13 @@ button {
   @media screen and (min-width: 520px) {
     .project {
       float: left;
-      width: 48.93617021277%;
+      width: 45.93617021277%;
       margin-bottom: 10px; }
     .project:nth-child(odd) {
       margin-right: 2.12765957447%; } }
   @media screen and (min-width: 800px) {
     .project {
-      width: 31.91489361702%; }
+      width: 30%; }
     .project:nth-child(odd) {
       margin: 0; }
     .project:nth-child(3n + 2) {
