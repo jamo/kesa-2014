@@ -94,6 +94,19 @@
                     <li>Keskustelu ilmestyy keski-ikkunaan. Voit kirjoittaa viestejä ruudun pohjalla olevaan kenttään. Oikealla näet listauksen kanavalla olijoista.
                     Nimen vieressä oleva keltainen @ tarkoittaa, että kyseessä on yksi kurssin ohjaajista.</li>
                   </ol>
+                  <form action="http://webchat.xs4all.nl/cgi-bin/ircnet/irc.cgi" method="POST">
+                    <input type="hidden" name="Server" value="IRCnet" >
+                    <input type="hidden" name="interface" value="mozilla" >
+                    <input type="hidden" name="channel_select" value="other" >
+                    <input type="hidden" name="Channel" value="#kesapaja" >
+                    <input type="hidden" name="Realname" value="CGI:IRC User" >
+                    <input type="hidden" name="Format" value="default" >
+                    <input type="hidden" name="Character_set" value="" >
+                    Nickname: <input id="irc-nick" type="text" name="Nickname" value="hukassa" />
+                    <button type="submit" name="login" value="login">IRC</button>
+                  </form>
+                  <script>document.getElementById("irc-nick").value = "hukassa" + Math.floor(Math.random()*10000);</script>
+                  
                 </div>
                 <div class="secondary">
                   <div class="photo full">
