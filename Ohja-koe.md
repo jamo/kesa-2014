@@ -32,7 +32,7 @@ Paperiohjelmoinnissa ollaan myös hiukan armollisempia esim. puolipisteiden ja m
 
 ## Kokeen ohjelmointitehtävien kannalta keskeisimmät aiheet
 
-Kokeen kannalta kurssin kaikki viikot ovat tärkeitä. Graafisiin käyttöliittymiin liittyvää ohjelmointitehtävää kokeissa ei ole. Ohjelmointitehtäviä ei myöskään tule säännöllisistä lausekkeista.
+Kokeen kannalta kurssin kaikki viikot ovat tärkeitä. **Graafisiin käyttöliittymiin liittyvää ohjelmointitehtävää kokeissa ei ole. Ohjelmointitehtäviä ei myöskään tule säännöllisistä lausekkeista.**
 
 Erityinen huomio kannattaa kokeeseen kertauksessa ohjelmointitehtäviä silmälläpitäen kiinnittää seuraaviin aiheisiin:
 
