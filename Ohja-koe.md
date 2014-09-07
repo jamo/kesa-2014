@@ -73,4 +73,3 @@ Linkkejä vanhoihin Ohjelmoinnin jatkokurssin kokeisiin
 - [Kevät 2014](http://www.cs.helsinki.fi/group/java/k14/ohja/koe280414.pdf)
 - [Syksy 2013](http://www.cs.helsinki.fi/group/java/k14/ohja/koe091213.pdf)
 - [Kevät 2013](http://www.cs.helsinki.fi/group/java/k14/ohja/koe290413.pdf)
-- [Syksy 2012](http://www.cs.helsinki.fi/group/java/k14/ohja/koe101212.pdf)
