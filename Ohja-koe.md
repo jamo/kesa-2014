@@ -1,10 +1,10 @@
-# Ohjelmoinnin jatkokurssi kokeet
+# Ohjelmoinnin jatkokurssi
 
 - 10.9.2014
     - Koe 
     - Mallivastaukset
 
-# Ohjeita Ohjelmoinnin jatkokurssin kokeeseen
+# Ohjeita kokeeseen
 
 Koe sisältää useita pieniä ohjelmointitehtäviä. Tehtävät ovat samantyyppisiä kuin mitä harjoitustehtävissä on harjoiteltu. Valitettavasti ohjelmointi täytyy nyt tehdä paperille.
 
